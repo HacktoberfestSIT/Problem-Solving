@@ -39,7 +39,7 @@ This repository contains problem questions related to DSA, Greedy, Math and begi
 - Any other language
 
 ## 🎭Make a Meaningful PR
-- Don't make a spam PR, if found you will be diswualified from Hacktoberfest
+- Don't make a spam PR, if found you will be disqualified from Hacktoberfest
 - Try to understand the problem discussed in the issue
 - Make PR which is thoughtful
 - Don't forget to write your name on the Contributors.md file
