@@ -6,7 +6,11 @@ Welcome to the list of people who contributed to this repo 💥
 - Write in brief about your contribution
 - ___for example: 23. Deep Dhar (added Binary Search program)___ <br></br>
 
-## List starts below:
+## Repo Owner and Admins:
+1. [Deep Dhar](https://github.com/deepdhar)
+2. [Aman Raza](https://github.com/aman-raza)
+
+## General Contributors below:
 1.
 2.
 3.
