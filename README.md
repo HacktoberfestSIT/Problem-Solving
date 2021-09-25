@@ -4,6 +4,36 @@ Get started with beginner friendly issues, add solution codes and learn contribu
 ## 😎About the repository
 This repository contains problem questions related to DSA, Greedy, Math and beginner friendly topics. You can use any programming language of your preference and contribute to this repo.
 
+## How to contribute
+
+Create a folder using the following naming convention:
+Problem_Name-Your_Username
+e.g Palindrome_Number-abc123
+
+Include the following in the folder:
+### Your working code
+
+### Screenshot of that exact code being accepted
+
+Take note of the following:
+### Failing to get your solution accepted and/or using some other piece of code than what's working in the screenshot will get your PR rejected
+
+### Tweaking anything in the repository other than the folder of your current solution will get your PR rejected
+
+## Problems
+
+Palindrome Number
+https://leetcode.com/problems/palindrome-number/
+
+Two Sum
+https://leetcode.com/problems/two-sum/
+
+Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix/
+
+Forgotten Language
+https://www.codechef.com/problems/FRGTNLNG
+
 ## 📢General Steps to follow while contributing:
 
 ### Step Zero
