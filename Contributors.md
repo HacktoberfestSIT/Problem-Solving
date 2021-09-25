@@ -11,7 +11,7 @@ Welcome to the list of people who contributed to this repo 💥
 2. [Aman Raza](https://github.com/aman-raza)
 
 ## General Contributors below:
-1. [Gourav8152-ai]
+1.
 2.
 3.
 4.
