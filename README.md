@@ -11,14 +11,12 @@ Problem_Name-Your_Username
 e.g Palindrome_Number-abc123
 
 Include the following in the folder:
-### Your working code
-
-### Screenshot of that exact code being accepted
+- Your working code
+- Screenshot of said code being accepted
 
 Take note of the following:
-### Failing to get your solution accepted and/or using some other piece of code than what's working in the screenshot will get your PR rejected
-
-### Tweaking anything in the repository other than the folder of your current solution will get your PR rejected
+- Failing to get your solution accepted and/or using some other piece of code than what's working in the screenshot will get your PR rejected
+- Tweaking anything in the repository other than the folder of your current solution will get your PR rejected
 
 ## Problems
 
