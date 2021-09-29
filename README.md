@@ -13,7 +13,7 @@ This repository contains problem questions related to DSA, Greedy, Math and begi
 
 ### Step One
 - Once you are assigned the issue, fork the repo to your profile 🍴 by clicking the __Fork__ button on the top right corner 
-- Clone the repo to your local machine: ```$ git clone "your cloned repo URL"``` run the command in git bash on your PC/ Mac 💻
+- Clone the repo to your local machine: ```$ git clone "your forked repo URL"``` run the command in git bash on your PC/ Mac 💻
 - Go to the directory for the issue you're working on, then create a folder named on the programming lang. your solution is in (ex: Python) and copy your solution in that directory (for example, Searching & Sorting -> Cyclic Sort -> Python -> solution.py )
 - Add your name to the __Contributors.md__ file
 
