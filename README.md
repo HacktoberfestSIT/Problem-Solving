@@ -47,4 +47,4 @@ This repository contains problem questions related to DSA, Greedy, Math and begi
 ### Don't forget to Star ⭐ this repo 😁
 
 <br></br>
-___Owned and managed by [Deep Dhar](https://github.com/deepdhar) ❤✨___
+___Owned and managed by [Deep Dhar](https://github.com/deepdhar), [Aman Raza](https://github.com/aman-raza), [Shreyansh Singh](https://github.com/dumbbutgenius) ❤✨___
