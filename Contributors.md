@@ -11,7 +11,7 @@ Welcome to the list of people who contributed to this repo 💥
 2. [Aman Raza](https://github.com/aman-raza)
 
 ## General Contributors below:
-1.
+1. [Ayra](https://github.com/BonkReaction)
 2.
 3.
 4.
