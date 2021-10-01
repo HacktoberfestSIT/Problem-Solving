@@ -1,30 +1,60 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<string.h>
 
-void display(int a[],int n){
-    for(int i=0;i<n;i++){
-        printf("%d ",a[i]);
-    }
-    printf("\n");
-}
-
-void input(int a[],int n){
+void input(int *a,int n){
     for(int i=0;i<n;i++){
         printf("Element %d ",i);
         scanf("%d",&a[i]);
     }
 }
 
-void insertionSort(int a[],int n){
-    int key,j;
-    for(int i=1;i<=n-1;i++){
-        key=a[i];
-        j=i-1;
-        while(j>=0 && a[j]>key){
-            a[j+1]=a[j];
-            j--;
+void display(int *a,int n){
+    for(int i=0;i<n;i++){
+        printf("%d ",a[i]);
+    }
+    printf("\n");
+}
+
+void merging(int *a,int mid,int low,int high){
+    int *b=(int *)malloc((high-low+1)*sizeof(int));
+    int i=low;
+    int j=mid+1;
+    int k=low;
+    while(i<=mid && j<=high){
+        if(a[i]<a[j]){
+            b[k]=a[i];
+            i++;
+            k++;
         }
-        a[j+1]=key;
+        else{
+            b[k]=a[j];
+            j++;
+            k++;
+        }
+    }
+    while(i<=mid){
+        b[k]=a[i];
+        i++;
+        k++;
+    }
+    while (j<=high)
+    {
+        b[k]=a[j];
+        j++;
+        k++;
+    }
+    for(i=low;i<=high;i++){
+        a[i]=b[i];
+    }
+}
+
+void mergeSort(int *a,int low,int high){
+    if(low<high){
+        int mid=(low+high)/2;
+        mergeSort(a,low,mid);
+        mergeSort(a,mid+1,high);
+        merging(a,mid,low,high);
     }
 }
 
@@ -36,6 +66,7 @@ int main(){
 
     input(a,n);
     display(a,n);
-    insertionSort(a,n);
+
+    mergeSort(a,0,n-1);
     display(a,n);
 }
