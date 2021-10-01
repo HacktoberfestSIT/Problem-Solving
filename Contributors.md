@@ -12,7 +12,7 @@ Welcome to the list of people who contributed to this repo 💥
 
 ## General Contributors below:
 1. [Ayra](https://github.com/BonkReaction)
-2.
+2. [Gourav-78](https://github.com/Gourav-78) (Added Quick Sort Solution in C++)
 3.
 4.
 5.
