@@ -23,3 +23,4 @@ Welcome to the list of people who contributed to this repo 💥
 6. [dcod3r](https://github.com/dcod3r)
 7. [Ayansh](https://github.com/badasschef)
 8. [Deep](https://github.com/deep846)
+9. [Amit](https://github.com/amitShindeGit)
