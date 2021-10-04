@@ -24,3 +24,4 @@ Welcome to the list of people who contributed to this repo 💥
 7. [Ayansh](https://github.com/badasschef)
 8. [Deep](https://github.com/deep846)
 9. [Amit](https://github.com/amitShindeGit)
+10. [Tanisha-creator](https://github.com/Tanisha-creator)(Added solution for Maximum SubArray)
