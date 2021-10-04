@@ -22,5 +22,6 @@ Welcome to the list of people who contributed to this repo 💥
 5. [iamprofessor1](https://github.com/iamprofessor1)(Added Kth largest leetcode in cpp)
 6. [dcod3r](https://github.com/dcod3r)
 7. [Ayansh](https://github.com/badasschef)
-8. [Deep](https://github.com/deep846)
-9. [Amit](https://github.com/amitShindeGit)
+8. [Saransh](https://github.com/saranshkotnala)
+9. [Deep](https://github.com/deep846)
+10. [Amit](https://github.com/amitShindeGit)
