@@ -24,3 +24,4 @@ Welcome to the list of people who contributed to this repo 💥
 7. [Ayansh](https://github.com/badasschef)
 8. [Deep](https://github.com/deep846)
 9. [Amit](https://github.com/amitShindeGit)
+10. [Eldrin](https://github.com/eldrin0)(Added Bubble Sort solution in JS)
