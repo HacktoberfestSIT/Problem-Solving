@@ -24,7 +24,7 @@ class LinearSearch
       if (array[c] == search)    
       {  
          System.out.println(search + " is present at location " + (c + 1) + ".");  
-        break;
+          break;
       }  
       
     }  
