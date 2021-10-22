@@ -25,3 +25,5 @@ Welcome to the list of people who contributed to this repo 💥
 8. [Deep](https://github.com/deep846)
 9. [Amit](https://github.com/amitShindeGit)
 10. [dee-Rajak](https://github.com/dee-Rajak)	(Solved Issue #81)
+11.[Tanisha-creator](https://github.com/Tanisha-creator)(Added solution for Maximum SubArray)
+12.[Fatema](https://github.com/Fatema110Git) (Added Factorial of Large Number in Python)
