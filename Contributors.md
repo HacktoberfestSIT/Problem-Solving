@@ -28,3 +28,4 @@ Welcome to the list of people who contributed to this repo 💥
 11. [Tanisha-creator](https://github.com/Tanisha-creator)(Added solution for Maximum SubArray)
 12. [Fatema](https://github.com/Fatema110Git) (Added Factorial of Large Number in Python)
 13. [Saransh](https://github.com/saranshkotnala)
+14. [Eldrin](https://github.com/eldrin0)(Added Bubble Sort solution in JS)
