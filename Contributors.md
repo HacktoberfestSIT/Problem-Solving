@@ -29,5 +29,5 @@ Welcome to the list of people who contributed to this repo 💥
 12. [Fatema](https://github.com/Fatema110Git) (Added Factorial of Large Number in Python)
 13. [Saransh](https://github.com/saranshkotnala)
 14. [Eldrin](https://github.com/eldrin0)(Added Bubble Sort solution in JS)
-15. [amankumar988](https://github.com/amankumar988)(Solved Issues #18, #16, #20)
+15. [amankumar988](https://github.com/amankumar988)(Solved Issues #18)
 16. [kesher988](https://github.com/kesher988)(solved issue #9,#24)
